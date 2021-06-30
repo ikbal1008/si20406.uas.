@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "42881334547",
+    "project_id": "mycontact-list-a44fe",
+    "storage_bucket": "mycontact-list-a44fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42881334547:android:9095270b5cdf6cfcd42ee6",
+        "android_client_info": {
+          "package_name": "ikbal.maulana.mycontactlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42881334547-bb340giep712bmbolnuu7shmr7998n8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM4d2nZRSpx2bvpNTA3K788Ig8oyZbTRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42881334547-bb340giep712bmbolnuu7shmr7998n8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
